@@ -122,11 +122,11 @@ plt.show()
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![img]()
+![img](https://github.com/vijay21500269/convolutional-denoising-autoencoder/blob/main/DL%201.png)
 
 ### Original vs Noisy Vs Reconstructed Image
 
-![img]()
+![img](https://github.com/vijay21500269/convolutional-denoising-autoencoder/blob/main/DL%202.png)
 
 
 
